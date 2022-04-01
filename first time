@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Welcome to shark site</title>
+</head>
+<body>
+<img src="images/shark-icon.png" alt="Png Shark>
+</body>
+</html>
+<p> Welcome to shark site, it's all about the sharks</p>
+<ul>
+<li>SHARKS ARE</li>
+<li>VERY COOL!</li>
+</ul>
+<p><strong>SHARKS ARE AWESOME!!!</strong></p>
+<p>Sharks are a group of elasmobranch fish characterized by a cartilaginous skeleton, five to seven gill slits on the sides of the head, and pectoral fins that are not fused to the head. Modern sharks are classified within the clade Selachimorpha and are the sister group to the rays.</p>
+<a href="https://www.worldwildlife.org/species/shark">Sharks :)</a>
+
